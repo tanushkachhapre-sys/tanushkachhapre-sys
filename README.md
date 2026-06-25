@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Tanushka 👋
+
+First-year CS student at LNCT Bhopal | C++ & DSA | Generative AI
+
+- 🔭 Practising DSA on Codeforces & LeetCode
+- 🌱 Completed Google Generative AI course + Outskill AI Mastermind
+- ⚡ Attended Google's Build with AI developer event (Prompt Wars competitor)
+- 📫 tanushkachhpare@gmail.com
 
 <!--
 **tanushkachhapre-sys/tanushkachhapre-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
