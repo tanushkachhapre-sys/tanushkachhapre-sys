@@ -1,6 +1,6 @@
 # Hi, I'm Tanushka 👋
 
-Second-year CS student at LNCT Bhopal | C++ & DSA |
+Second-year CSE student at LNCT Bhopal | C++ & DSA |
 
 - 🔭 Practising DSA on Codeforces & LeetCode
 - 🌱 Completed Google Generative AI course + Outskill AI Mastermind
